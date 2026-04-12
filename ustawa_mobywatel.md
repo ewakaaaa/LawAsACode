@@ -8,17 +8,17 @@ o aplikacji mObywatel)
 
 **Art. 1. **Ustawa określa zasady funkcjonowania i wykorzystywania oprogramowania, wykorzystywanego do udostępniania i świadczenia usług, przeznaczonego dla urządzeń mobilnych, zwanego dalej „aplikacją mObywatel”, którego użytkownikami są osoby fizyczne.
 
-**Art. 2. **1.** **Minister właściwy do spraw informatyzacji udostępnia w aplikacji mObywatel usługi, z których użytkownik tej aplikacji może korzystać przy użyciu urządzenia mobilnego, pozwalające w szczególności na:
+**Art. 2. **1.** **Minister właściwy do spraw informatyzacji udostępnia w aplikacji mObywatel usługi, z których użytkownik tej aplikacji może korzystać przy użyciu urządzenia mobilnego, pozwalające na:
 
 1)	pobranie, przechowywanie, prezentację oraz przekazywanie, przy użyciu urządzenia mobilnego, dokumentu elektronicznego zawierającego dane pobrane z rejestru publicznego lub z systemu teleinformatycznego podmiotu publicznego:
 
-a)	niezbędne dane osobowe tego użytkownika,
+a)	dane osobowe tego użytkownika,
 
 b)	dane dotyczące sytuacji prawnej tego użytkownika lub praw mu przysługujących,
 
 c)	dane umożliwiające identyfikację rzeczy związanej z tym użytkownikiem,
 
-d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem lub opiekunem prawnym, lub praw przysługujących tej osobie;
+d)	dane dotyczące sytuacji prawnej osoby niepełnoletniej, której ten użytkownik jest rodzicem lub opiekunem prawnym, lub praw przysługujących tej osobie;
 
 2)	przekazanie danych, które zostały pobrane przez użytkownika tej aplikacji z rejestru publicznego lub z systemu teleinformatycznego, innemu podmiotowi świadczącemu usługę w tej aplikacji;
 
