@@ -55,7 +55,7 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 
 | Plik | Data | Autor | Opis | Tokeny | Status |
 |------|------|-------|------|--------|--------|
-| [dokument564010](outputs/arrangements/dokument564010.md) | 14.06.2022 | Minister Zdrowia | Uwagi do projektu ustawy | ~450 | [PR #1](https://github.com/ewakaaaa/LawAsACode/pull/1) |
+| [dokument564010](outputs/arrangements/dokument564010.md) | 14.06.2022 | Minister Zdrowia | Uwagi do projektu ustawy | ~450 | |
 | [dokument564013](outputs/arrangements/dokument564013.md) | 14.06.2022 | Minister Sportu i Turystyki | Uwagi do projektu ustawy | ~230 | |
 | [dokument564008](outputs/arrangements/dokument564008.md) | 16.06.2022 | Minister Infrastruktury | Uwagi do projektu ustawy | ~387 | |
 | [dokument564003](outputs/arrangements/dokument564003.md) | 17.06.2022 | Koordynator OSR, KPRM | Uwagi do Oceny Skutków Regulacji | ~221 | |
