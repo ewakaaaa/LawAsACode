@@ -64,8 +64,8 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 | [dokument563986](outputs/arrangements/dokument563986.md) | ~21.06.2022 | Minister Rodziny i Polityki Społecznej | Uwagi + propozycja dodania mLegitymacji osoby niepełnosprawnej | ~465 | [PR #6](https://github.com/ewakaaaa/LawAsACode/pull/6) |
 | [dokument563989](outputs/arrangements/dokument563989.md) | ~21.06.2022 | Minister Rodziny i Polityki Społecznej | Propozycja zmian w przepisach ustawy o rehabilitacji (załącznik) | ~3 945 | [PR #6](https://github.com/ewakaaaa/LawAsACode/pull/6) |
 | [dokument564012](outputs/arrangements/dokument564012.md) | 21.06.2022 | Minister Sprawiedliwości | Uwagi do projektu ustawy | ~1 969 | [PR #10](https://github.com/ewakaaaa/LawAsACode/pull/10) |
-| [dokument564005](outputs/arrangements/dokument564005.md) | 28.06.2022 | Minister Edukacji i Nauki | Uwagi do projektu ustawy | ~5 498 | |
-| [dokument564009](outputs/arrangements/dokument564009.md) | 01.07.2022 | Minister ds. Unii Europejskiej | Opinia o zgodności z prawem UE | ~1 610 | |
+| [dokument564005](outputs/arrangements/dokument564005.md) | 28.06.2022 | Minister Edukacji i Nauki | Uwagi do projektu ustawy | ~5 498 | [PR #11](https://github.com/ewakaaaa/LawAsACode/pull/11) |
+| [dokument564009](outputs/arrangements/dokument564009.md) | 01.07.2022 | Minister ds. Unii Europejskiej | Opinia o zgodności z prawem UE | ~1 610 | [PR #12](https://github.com/ewakaaaa/LawAsACode/pull/12) |
 | [dokument564086](outputs/arrangements/dokument564086.md) | b.d. | Minister Spraw Wewnętrznych i Administracji | Uwagi do projektu ustawy | ~5 966 | |
 
 ### Podsumowanie uzgodnień
