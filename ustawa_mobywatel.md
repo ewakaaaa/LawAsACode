@@ -72,7 +72,9 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 14)	adres zameldowania;
 
-15)	datę zameldowania.
+15)	datę zameldowania;
+
+16)	jednostkowe dane medyczne.
 
 5. Dokument elektroniczny, o którym mowa ust. 3, jest dokumentem stwierdzającym tożsamość i obywatelstwo polskie osoby na terytorium Rzeczypospolitej Polskiej, w zakresie danych w nim zawartych, w relacjach wzajemnej fizycznej obecności stron.
 
