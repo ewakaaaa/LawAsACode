@@ -32,7 +32,7 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 
 ### Pismo przewodnie
 
-dokument559317 — pismo KPRM (Janusz Cieszyński) rozsyłające projekt do uzgodnień międzyresortowych z prośbą o uwagi w terminie 14 dni.
+[dokument559317](outputs/arrangements/dokument559317.md) — pismo KPRM (Janusz Cieszyński) rozsyłające projekt do uzgodnień międzyresortowych z prośbą o uwagi w terminie 14 dni.
 
 ### Uwagi ministerstw
 
