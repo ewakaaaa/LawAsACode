@@ -20,11 +20,12 @@ Dokumenty zrodlowe: https://legislacja.gov.pl/projekt/12360454/
 2. Skonwertowalismy je z formatow DOCX, PDF i DOC na Markdown za pomoca skryptu `scripts/convert_to_md.py`
 3. Usunelismy tabele (Ocena Skutkow Regulacji) — zle sie renderuja w Markdown, oryginaly zostaly w `data/arrangements/`
 4. Tekst projektu ustawy umieszczilismy na branczu `main` jako plik glowny
-5. Uwagi poszczegolnych ministerstw dodajemy jako Pull Requesty — kazde ministerstwo to osobny branch i PR. Dokumenty czytamy i analizujemy za pomoca LLM-a (Claude), ktory:
+5. Uwagi poszczegolnych ministerstw dodajemy jako Pull Requesty — kazde ministerstwo to osobny branch i PR (`uwagi_ministerstwa_<nazwa>`). Dokumenty czytamy i analizujemy za pomoca LLM-a (Claude), ktory:
    - Czyta dokument z uwagami ministerstwa
    - Sprawdza w zestawieniu uwag ([dokument589929](outputs/arrangements/dokument589929.md)) jaka jest odpowiedz projektodawcy na kazda uwage
-   - Jesli uwaga zostala uwzgledniona — wprowadza zmiane w tresci ustawy na branczu i tworzy PR
-   - Jesli uwaga zostala wyjasniona (nieuwzgledniona) — dodaje ja jako komentarz w PR z uzasadnieniem projektodawcy
+   - Jesli uwaga zostala uwzgledniona — wprowadza proponowana zmiane w tresci ustawy na branczu i tworzy PR
+   - Jesli uwaga zostala wyjasniona (nieuwzgledniona) — rowniez wprowadza proponowana zmiane, ale dodaje review comment z odpowiedzia autora ustawy (projektodawcy)
+   - Kazdy PR = jedno ministerstwo, moze miec wiele uwag i wiele review commentow
 6. Po przetworzeniu wszystkich uwag porownamy wynik z wersja ustawy po uzgodnieniach ([dokument590065](outputs/arrangements/dokument590065.md)) — TODO
 
 ### Szacunkowy koszt tokenow na przetworzenie jednego PR
