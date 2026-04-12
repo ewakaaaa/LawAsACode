@@ -7,3 +7,4 @@
 - Jezyk PR-ow i komentarzy: polski.
 - Szukajac przepisow w ustawie, szukaj po numerach artykulow/ustepow/punktow (np. "Art. 3", "ust. 1 pkt 4"), a dopiero jak nie znajdziesz — po slowach kluczowych.
 - Modyfikujemy tylko plik `ustawa_mobywatel.md`. Uwagi moga dotyczyc zarowno przepisow glownych (Art. 1-8), jak i przepisow zmieniajacych inne ustawy (Art. 9-17) — oba typy sa czescia naszej ustawy.
+- Notatki o polskim procesie legislacyjnym (etapy, uzgodnienia, struktura ustawy) sa w `docs/proces_legislacyjny.md` — korzystaj z nich w razie potrzeby.
