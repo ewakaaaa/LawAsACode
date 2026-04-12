@@ -18,7 +18,7 @@ b)	dane dotyczące sytuacji prawnej tego użytkownika lub praw mu przysługując
 
 c)	dane umożliwiające identyfikację rzeczy związanej z tym użytkownikiem,
 
-d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem lub opiekunem prawnym, lub praw przysługujących tej osobie;
+d)	dane dotyczące sytuacji prawnej osoby niepełnoletniej, której ten użytkownik jest rodzicem lub opiekunem prawnym, lub praw przysługujących tej osobie;
 
 2)	przekazanie danych, które zostały pobrane przez użytkownika tej aplikacji z rejestru publicznego lub z systemu teleinformatycznego, innemu podmiotowi świadczącemu usługę w tej aplikacji;
 
@@ -42,7 +42,7 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 5)	fotografię.
 
-4. Dokument elektroniczny, o którym mowa w ust. 3, oprócz danych, o których mowa w ust 3, może zawierać także inne dane pobrane z rejestrów publicznych lub systemów teleinformatycznych, o których mowa w art. 4 ust. 4 i 5, w szczególności:
+4. Dokument elektroniczny, o którym mowa w ust. 3, oprócz danych, o których mowa w ust 3, może zawierać także inne dane pobrane z rejestrów publicznych lub systemów teleinformatycznych, o których mowa w art. 4 ust. 4 i 5:
 
 1)	serię i numer dowodu osobistego;
 
