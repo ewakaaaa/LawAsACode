@@ -25,7 +25,7 @@ Dokumenty zrodlowe: https://legislacja.gov.pl/projekt/12360454/
    - Sprawdza w zestawieniu uwag ([dokument589929](outputs/arrangements/dokument589929.md)) jaka jest odpowiedz projektodawcy na kazda uwage
    - Jesli uwaga zostala uwzgledniona — wprowadza zmiane w tresci ustawy na branczu i tworzy PR
    - Jesli uwaga zostala wyjasniona (nieuwzgledniona) — dodaje ja jako komentarz w PR z uzasadnieniem projektodawcy
-   - Po przetworzeniu wszystkich uwag porownujemy wynik z wersja ustawy po uzgodnieniach ([dokument590065](outputs/arrangements/dokument590065.md))
+6. Po przetworzeniu wszystkich uwag porownamy wynik z wersja ustawy po uzgodnieniach ([dokument590065](outputs/arrangements/dokument590065.md)) — TODO
 
 ## Mapa dokumentów — etap uzgodnień
 
