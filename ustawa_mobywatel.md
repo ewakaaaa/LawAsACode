@@ -22,7 +22,7 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 2)	przekazanie danych, które zostały pobrane przez użytkownika tej aplikacji z rejestru publicznego lub z systemu teleinformatycznego, innemu podmiotowi świadczącemu usługę w tej aplikacji;
 
-3)	identyfikację i uwierzytelnienie w usłudze online udostępnionej przez podmiot publiczny, o którym mowa w art. 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 i 1087);
+3)	identyfikację i uwierzytelnienie w usłudze online udostępnionej przez podmiot publiczny, o którym mowa w art. 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 i z 2022 r. poz. 1087);
 
 4)	dokonywanie płatności elektronicznych związanych z usługami udostępnianymi w tej aplikacji; 
 
@@ -426,7 +426,7 @@ b)	informacja o wymaganiach technicznych dotyczących korzystania z aplikacji mO
 
 4)	realizacją zadań, o których mowa w art. 3 ust. 1 ustawy z dnia… o aplikacji mObywatel (Dz. U. poz. …)”.
 
-**Art. 13.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 i 1087) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 i z 2022 r. poz. 1087) wprowadza się następujące zmiany:
 
 1)	uchyla się art. 19e - 19j;
 
