@@ -38,6 +38,7 @@ Stanowiska i opinie w ramach uzgodnień międzyresortowych:
 | [dokument589924](outputs/arrangements/dokument589924.md) | Minister Cyfryzacji | Pismo do uczestników uzgodnień z wynikami etapu | |
 | [dokument589927](outputs/arrangements/dokument589927.md) | KPRM — projektodawca | OSR — zaktualizowana Ocena Skutków Regulacji | |
 | [dokument589929](outputs/arrangements/dokument589929.md) | KPRM — projektodawca | Zestawienie uwag z odniesieniem projektodawcy | |
+| [dokument590065](outputs/arrangements/dokument590065.md) | KPRM — projektodawca | Zaktualizowany projekt ustawy po uzgodnieniach (28.11.2022) — punkt odniesienia |
 
 ## Struktura
 
