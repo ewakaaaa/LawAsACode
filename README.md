@@ -34,9 +34,10 @@ Stanowiska i opinie w ramach uzgodnień międzyresortowych:
 | [dokument564012](outputs/arrangements/dokument564012.md) | Minister Sprawiedliwości | Uwagi do projektu ustawy | |
 | [dokument564013](outputs/arrangements/dokument564013.md) | Minister Sportu i Turystyki (Kamil Bortniczuk) | Uwagi do projektu ustawy | |
 | [dokument564014](outputs/arrangements/dokument564014.md) | Rządowe Centrum Legislacji (Krzysztof Szczucki) | Uwagi legislacyjne RCL | |
-| [dokument564086](outputs/arrangements/dokument564086.md) | Minister Spraw Wewnętrznych i Administracji | Uwagi do projektu ustawy |
-| [dokument589924](outputs/arrangements/dokument589924.md) | Minister Cyfryzacji | Pismo do uczestników uzgodnień z wynikami etapu |
-| [dokument589927](outputs/arrangements/dokument589927.md) | KPRM — projektodawca | OSR — zaktualizowana Ocena Skutków Regulacji |
+| [dokument564086](outputs/arrangements/dokument564086.md) | Minister Spraw Wewnętrznych i Administracji | Uwagi do projektu ustawy | |
+| [dokument589924](outputs/arrangements/dokument589924.md) | Minister Cyfryzacji | Pismo do uczestników uzgodnień z wynikami etapu | |
+| [dokument589927](outputs/arrangements/dokument589927.md) | KPRM — projektodawca | OSR — zaktualizowana Ocena Skutków Regulacji | |
+| [dokument589929](outputs/arrangements/dokument589929.md) | KPRM — projektodawca | Zestawienie uwag z odniesieniem projektodawcy | |
 
 ## Struktura
 
