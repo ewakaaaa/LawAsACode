@@ -8,3 +8,20 @@
 - Szukajac przepisow w ustawie, szukaj po numerach artykulow/ustepow/punktow (np. "Art. 3", "ust. 1 pkt 4"), a dopiero jak nie znajdziesz — po slowach kluczowych.
 - Modyfikujemy tylko plik `ustawa_mobywatel.md`. Uwagi moga dotyczyc zarowno przepisow glownych (Art. 1-8), jak i przepisow zmieniajacych inne ustawy (Art. 9-17) — oba typy sa czescia naszej ustawy.
 - Notatki o polskim procesie legislacyjnym (etapy, uzgodnienia, struktura ustawy) sa w `docs/proces_legislacyjny.md` — korzystaj z nich w razie potrzeby.
+
+## Flow pracy — przetwarzanie uwag ministerstwa
+
+1. Przeczytaj dokument z uwagami ministerstwa (`outputs/arrangements/`)
+2. Dla kazdej uwagi:
+   a. Znajdz artykul/ustep/punkt w `ustawa_mobywatel.md`
+   b. Wprowadz proponowana zmiane w tekscie ustawy (nawet jesli nieuwzgledniona)
+   c. Commitnij zmiane
+3. Push brancha i utworz PR
+4. Dla kazdej zmiany dodaj review comment na zmienionej linii:
+   - Uwzgledniona: `**Odpowiedz autora ustawy (projektodawcy):** Uwaga uwzgledniona. [tresc]`
+   - Nieuwzgledniona: `**Odpowiedz autora ustawy (projektodawcy):** Uwaga wyjasniona (nieuwzgledniona). [tresc]`
+   - Zawsze z linkiem do zrodla (`dokument589929`)
+5. Jesli uwaga jest ogolna (nie proponuje konkretnej zmiany tekstu) — dodaj zwykly komentarz do PR
+6. Zaktualizuj README (kolumna Status)
+
+Kluczowa zasada: **kazda uwaga z konkretna propozycja zmiany = zmiana w pliku + review comment na tej linii**.
