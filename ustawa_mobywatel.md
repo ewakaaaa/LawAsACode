@@ -40,9 +40,11 @@ d)	dane dotyczące sytuacji prawnej osoby niepełnoletniej, której ten użytkow
 
 4)	datę urodzenia;
 
-5)	fotografię.
+5)	fotografię;
 
-4. Dokument elektroniczny, o którym mowa w ust. 3, oprócz danych, o których mowa w ust 3, może zawierać także inne dane pobrane z rejestrów publicznych lub systemów teleinformatycznych, o których mowa w art. 4 ust. 4 i 5, w szczególności:
+6)	obywatelstwo.
+
+4. Dokument elektroniczny, o którym mowa w ust. 3, oprócz danych, o których mowa w ust 3, może zawierać także inne dane pobrane z rejestrów publicznych lub systemów teleinformatycznych, o których mowa w art. 4 ust. 4 i 5:
 
 1)	serię i numer dowodu osobistego;
 
@@ -94,7 +96,7 @@ d)	dane dotyczące sytuacji prawnej osoby niepełnoletniej, której ten użytkow
 
 3)	zapewnia bezpieczeństwo oraz integralność danych przekazywanych pomiędzy aplikacją mObywatel, systemem teleinformatycznym, o którym mowa w pkt 2, oraz systemami teleinformatycznymi podmiotów świadczących usługi w tej aplikacji;
 
-4)	udostępnia narzędzia, które umożliwiają potwierdzenie ważności, integralności oraz pochodzenia dokumentów elektronicznych obsługiwanych w ramach usług świadczonych w aplikacji mObywatel, w tym aplikację na urządzenia mobilne – mWeryfikator;
+4)	udostępnia narzędzia, które umożliwiają potwierdzenie autentyczności, ważności, integralności oraz pochodzenia dokumentów elektronicznych obsługiwanych w ramach usług świadczonych w aplikacji mObywatel, w tym aplikację na urządzenia mobilne – mWeryfikator;
 
 5)	zapewnia, przy użyciu systemu teleinformatycznego, o którym mowa w pkt 2, funkcjonowanie oraz możliwość wykorzystywania i weryfikacji certyfikatu, pozwalającego na:
 
