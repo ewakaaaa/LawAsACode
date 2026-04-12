@@ -27,6 +27,33 @@ Dokumenty zrodlowe: https://legislacja.gov.pl/projekt/12360454/
    - Jesli uwaga zostala wyjasniona (nieuwzgledniona) — dodaje ja jako komentarz w PR z uzasadnieniem projektodawcy
 6. Po przetworzeniu wszystkich uwag porownamy wynik z wersja ustawy po uzgodnieniach ([dokument590065](outputs/arrangements/dokument590065.md)) — TODO
 
+### Szacunkowy koszt tokenow na przetworzenie jednego PR
+
+| Element | Tokeny |
+|---------|--------|
+| Instrukcja systemowa + narzedzia | ~20 000 |
+| Tekst ustawy (kontekst) | ~21 000 |
+| Zestawienie uwag (szukanie odpowiedzi) | ~37 000 |
+| Uwagi ministerstwa | 200 — 14 000 |
+| Output (opis PR, zmiana w pliku) | ~500 — 1 000 |
+| **Razem input na 1 PR** | **~78 000 — 92 000** |
+
+Rozmiar uwag poszczegolnych ministerstw:
+
+| Dokument | Autor | Tokeny |
+|----------|-------|--------|
+| dokument564010 | Minister Zdrowia | ~450 |
+| dokument564013 | Minister Sportu i Turystyki | ~230 |
+| dokument564003 | Koordynator OSR | ~221 |
+| dokument564008 | Minister Infrastruktury | ~387 |
+| dokument563986 | Minister Rodziny i Polityki Spolecznej | ~465 |
+| dokument564009 | Minister ds. Unii Europejskiej | ~1 610 |
+| dokument564012 | Minister Sprawiedliwosci | ~1 969 |
+| dokument563989 | Min. Rodziny — propozycja zmian (zalacznik) | ~3 945 |
+| dokument564005 | Minister Edukacji i Nauki | ~5 498 |
+| dokument564086 | Minister Spraw Wewnetrznych i Administracji | ~5 966 |
+| dokument564014 | Rzadowe Centrum Legislacji | ~13 668 |
+
 ## Mapa dokumentów — etap uzgodnień
 
 ### Projekt ustawy
