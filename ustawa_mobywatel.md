@@ -6,7 +6,7 @@ z dnia ………… 2022 r.
 
 o aplikacji mObywatel)
 
-**Art. 1. **Ustawa określa zasady funkcjonowania i wykorzystywania publicznego oprogramowania, wykorzystywanego do udostępniania i świadczenia usług, przeznaczonego dla urządzeń mobilnych, zwanego dalej „aplikacją mObywatel”, którego użytkownikami są osoby fizyczne.
+**Art. 1. **Ustawa określa zasady funkcjonowania i wykorzystywania oprogramowania, wykorzystywanego do udostępniania i świadczenia usług, przeznaczonego dla urządzeń mobilnych, zwanego dalej „aplikacją mObywatel”, którego użytkownikami są osoby fizyczne.
 
 **Art. 2. **1.** **Minister właściwy do spraw informatyzacji udostępnia w aplikacji mObywatel usługi, z których użytkownik tej aplikacji może korzystać przy użyciu urządzenia mobilnego, pozwalające w szczególności na:
 
