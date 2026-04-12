@@ -10,7 +10,7 @@ Ten projekt pokazuje, ze git i GitHub moga sluzyc jako narzedzie do sledzenia ta
 
 ## Przypadek demonstracyjny
 
-**Ustawa o aplikacji mObywatel** (projekt z 3 czerwca 2022 r.) - etap uzgodnien miedzyresortowych.
+**Ustawa o aplikacji mObywatel** (projekt z 3 czerwca 2022 r.). Skupiamy sie na pierwszym etapie procesu legislacyjnego — uzgodnieniach miedzyresortowych.
 
 Dokumenty zrodlowe: https://legislacja.gov.pl/projekt/12360454/
 
