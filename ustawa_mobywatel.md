@@ -414,7 +414,7 @@ b)	informacja o wymaganiach technicznych dotyczących korzystania z aplikacji mO
 
 1b. Na wniosek pełnoletniego ucznia lub rodzica niepełnoletniego ucznia szkoła wydaje legitymację szkolną w postaci mLegitymacji szkolnej, stanowiącej dokument elektroniczny wydany w aplikacji mObywatel, o której mowa w ustawie z dnia… o aplikacji mObywatel (Dz. U. poz.  …).”.
 
-**Art. 11.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138) w art. 269b § 1 wyrazy „albo art. 269a” zastępuje się wyrazami „ , art. 269a albo art. 270 § 1”.
+**Art. 11.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138) w art. 269b § 1 wyrazy „albo art. 269a” zastępuje się wyrazami „ ,art. 269a, art. 270 § 1 albo art. 270a § 1”.
 
 **Art. 12.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988 i 1002) w art. 80d ust. 5 otrzymuje brzmienie:
 
