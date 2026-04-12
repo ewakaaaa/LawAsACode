@@ -12,6 +12,8 @@ Ten projekt pokazuje, ze git i GitHub moga sluzyc jako narzedzie do sledzenia ta
 
 **Ustawa o aplikacji mObywatel** (projekt z 3 czerwca 2022 r.) - etap uzgodnien miedzyresortowych.
 
+Dokumenty zrodlowe: https://legislacja.gov.pl/projekt/12360454/
+
 ## Struktura
 
 ```
