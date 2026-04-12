@@ -11,17 +11,20 @@
 
 ## Flow pracy — przetwarzanie uwag ministerstwa
 
-1. Przeczytaj dokument z uwagami ministerstwa (`outputs/arrangements/`)
-2. Dla kazdej uwagi:
+Odwzorowujemy realny proces legislacyjny: najpierw przychodzi pismo z uwagami, potem projektodawca sie do nich odnosi.
+
+1. Przeczytaj **pismo ministerstwa** (`outputs/arrangements/dokument5640xx.md`) — to jest zrodlo uwag
+2. Utworz branch `uwagi_ministerstwa_<nazwa>` albo `uwagi_rcl`
+3. Dla kazdej uwagi z pisma:
    a. Znajdz artykul/ustep/punkt w `ustawa_mobywatel.md`
-   b. Wprowadz proponowana zmiane w tekscie ustawy (nawet jesli nieuwzgledniona)
+   b. Wprowadz proponowana zmiane w tekscie ustawy (nawet jesli pozniej okaze sie nieuwzgledniona)
    c. Commitnij zmiane
-3. Push brancha i utworz PR
-4. Dla kazdej zmiany dodaj review comment na zmienionej linii:
+4. Push brancha i utworz PR (opis: autor, data, dokument zrodlowy, lista uwag)
+5. Dopiero teraz szukaj odpowiedzi projektodawcy w **zestawieniu uwag** (`dokument589929`) i dodaj review comment na zmienionej linii:
    - Uwzgledniona: `**Odpowiedz autora ustawy (projektodawcy):** Uwaga uwzgledniona. [tresc]`
    - Nieuwzgledniona: `**Odpowiedz autora ustawy (projektodawcy):** Uwaga wyjasniona (nieuwzgledniona). [tresc]`
    - Zawsze z linkiem do zrodla (`dokument589929`)
-5. Jesli uwaga jest ogolna (nie proponuje konkretnej zmiany tekstu) — dodaj zwykly komentarz do PR
-6. Zaktualizuj README (kolumna Status)
+6. Jesli uwaga jest ogolna (nie proponuje konkretnej zmiany tekstu) — dodaj zwykly komentarz do PR
+7. Zaktualizuj README (kolumna Status)
 
 Kluczowa zasada: **kazda uwaga z konkretna propozycja zmiany = zmiana w pliku + review comment na tej linii**.
