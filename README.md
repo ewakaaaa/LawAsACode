@@ -14,6 +14,14 @@ Ten projekt pokazuje, ze git i GitHub moga sluzyc jako narzedzie do sledzenia ta
 
 Dokumenty zrodlowe: https://legislacja.gov.pl/projekt/12360454/
 
+## Jak to zrobilismy
+
+1. Pobralismy dokumenty z etapu uzgodnien ze strony Rzadowego Centrum Legislacji (RCL)
+2. Skonwertowalismy je z formatow DOCX, PDF i DOC na Markdown za pomoca skryptu `scripts/convert_to_md.py`
+3. Usunelismy tabele (Ocena Skutkow Regulacji) — zle sie renderuja w Markdown, oryginaly zostaly w `data/arrangements/`
+4. Tekst projektu ustawy umieszczilismy na branczu `main` jako plik glowny
+5. Uwagi poszczegolnych ministerstw dodajemy jako Pull Requesty — kazde ministerstwo to osobny branch i PR
+
 ## Mapa dokumentów — etap uzgodnień
 
 ### Projekt ustawy
