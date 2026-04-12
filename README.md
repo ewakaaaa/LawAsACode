@@ -25,7 +25,6 @@ Stanowiska i opinie w ramach uzgodnień międzyresortowych:
 | [dokument559316](outputs/arrangements/dokument559316.md) | KPRM — projektodawca | Projekt ustawy o aplikacji mObywatel (tekst bazowy) | Tekst bazowy na `main` |
 | [dokument563986](outputs/arrangements/dokument563986.md) | Minister Rodziny i Polityki Społecznej | Uwagi do projektu ustawy | |
 | [dokument563989](outputs/arrangements/dokument563989.md) | Minister Rodziny i Polityki Społecznej | Propozycja zmian w przepisach ustawy o rehabilitacji (załącznik) | |
-| [dokument563992](outputs/arrangements/dokument563992.md) | Minister Rodziny i Polityki Społecznej | OSR — Ocena Skutków Regulacji (załącznik) | |
 | [dokument564003](outputs/arrangements/dokument564003.md) | Koordynator OSR (Antoni Olszewski, KPRM) | Uwagi do Oceny Skutków Regulacji | |
 | [dokument564005](outputs/arrangements/dokument564005.md) | Minister Edukacji i Nauki | Uwagi do projektu ustawy | |
 | [dokument564008](outputs/arrangements/dokument564008.md) | Minister Infrastruktury | Uwagi do projektu ustawy | |
@@ -36,7 +35,6 @@ Stanowiska i opinie w ramach uzgodnień międzyresortowych:
 | [dokument564014](outputs/arrangements/dokument564014.md) | Rządowe Centrum Legislacji (Krzysztof Szczucki) | Uwagi legislacyjne RCL | |
 | [dokument564086](outputs/arrangements/dokument564086.md) | Minister Spraw Wewnętrznych i Administracji | Uwagi do projektu ustawy | |
 | [dokument589924](outputs/arrangements/dokument589924.md) | Minister Cyfryzacji | Pismo do uczestników uzgodnień z wynikami etapu | |
-| [dokument589927](outputs/arrangements/dokument589927.md) | KPRM — projektodawca | OSR — zaktualizowana Ocena Skutków Regulacji | |
 | [dokument589929](outputs/arrangements/dokument589929.md) | KPRM — projektodawca | Zestawienie uwag z odniesieniem projektodawcy | |
 | [dokument590065](outputs/arrangements/dokument590065.md) | KPRM — projektodawca | Zaktualizowany projekt ustawy po uzgodnieniach (28.11.2022) — punkt odniesienia |
 
