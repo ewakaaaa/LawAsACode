@@ -426,6 +426,96 @@ b)	informacja o wymaganiach technicznych dotyczących korzystania z aplikacji mO
 
 4)	realizacją zadań, o których mowa w art. 3 ust. 1 ustawy z dnia… o aplikacji mObywatel (Dz. U. poz. …)”.
 
+**Art. 12a.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558) wprowadza się następujące zmiany:
+
+1) art. 6ca otrzymuje brzmienie:
+
+„Art. 6ca. 1. Powiatowy zespół, na wniosek osoby niepełnosprawnej lub jej przedstawiciela ustawowego, wystawia legitymację dokumentującą niepełnosprawność albo legitymację dokumentującą stopień niepełnosprawności, zwaną dalej „legitymacją", po uzyskaniu przez osobę niepełnosprawną prawomocnego orzeczenia o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień.
+
+2. Osoba niepełnosprawna, składając wniosek, przedstawia do wglądu prawomocne orzeczenie o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień.
+
+3. Legitymacja jest:
+
+1) wydawana w formie dokumentu z tworzywa sztucznego lub
+
+2) udostępniana w formie dokumentu elektronicznego przy użyciu aplikacji mObywatel, o której mowa w ustawie z dnia … o aplikacji mObywatel (Dz. U. poz. …), zwanego dalej „mLegitymacją ON".
+
+4. We wniosku o wydanie legitymacji osoba niepełnosprawna wskazuje wybraną formę lub wybrane formy legitymacji. Posiadanie przez osobę niepełnosprawną ważnej legitymacji tylko w jednej z form, nie wymaga ponownego składania wniosku o wydanie legitymacji, w przypadku wybrania innej formy.
+
+5. MLegitymacja ON jest udostępniana osobie niepełnosprawnej lub jej przedstawicielowi ustawowemu po potwierdzeniu jego danych osobowych przy użyciu certyfikatu, o którym mowa w art. 3 ust. 1 pkt 5 ustawy z dnia … o aplikacji mObywatel.
+
+6. Legitymację wydaje się, a mLegitymację ON udostępnia się, na okres ważności orzeczenia o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień.
+
+7. Okres ważności legitymacji nie może być dłuższy niż:
+
+1) 5 lat - w przypadku legitymacji dokumentujących niepełnosprawność;
+
+2) 10 lat - w przypadku legitymacji dokumentujących stopień niepełnosprawności wystawionych osobom, które nie ukończyły 60. roku życia.
+
+8. Wniosek o wydanie legitymacji lub jej duplikatu zawiera dane osobowe osoby ubiegającej się o ich wydanie lub dane przedstawiciela ustawowego tej osoby obejmujące:
+
+1) imię i nazwisko;
+
+2) datę i miejsce urodzenia;
+
+3) płeć;
+
+4) numer PESEL;
+
+5) adres miejsca zamieszkania, jeżeli jest inny niż adres miejsca zameldowania;
+
+6) dane kontaktowe;
+
+7) dane o dokumencie tożsamości.
+
+9. W przypadku, gdy osoba niepełnosprawna posiada więcej niż jedno orzeczenie o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień, legitymację dokumentującą niepełnosprawność albo legitymację dokumentującą stopień niepełnosprawności wystawia się na podstawie ostatniego orzeczenia.
+
+10. Minister właściwy do spraw zabezpieczenia społecznego może określić wzór wniosku o wydanie legitymacji dokumentującej niepełnosprawność albo stopień niepełnosprawności lub ich duplikatu i udostępnić te wzory w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.
+
+11. Przepisy ust. 7 - 10 stosuje się odpowiednio do mLegitymacji ON.";
+
+2) art. 6cc otrzymuje brzmienie:
+
+„Art. 6cc. 1. Za wydanie duplikatu legitymacji pobiera się opłatę w wysokości 15 zł. Opłata stanowi dochód budżetu państwa.
+
+2. O wydanie duplikatu legitymacji osoba posiadająca dokument może wystąpić w przypadku:
+
+1) zagubienia lub utraty legitymacji;
+
+2) zniszczenia legitymacji, w tym uszkodzenia lub złego stanu technicznego.
+
+3. W przypadku wystąpienia przez osobę niepełnosprawną z wnioskiem o wydanie nowej legitymacji w związku z:
+
+1) zmianą numeru PESEL,
+
+2) zmianą nazwiska,
+
+3) uzyskaniem kolejnego prawomocnego orzeczenia w trybie zmiany stanu zdrowia,
+
+4) zmianą wizerunku,
+
+5) wystąpieniem o dopisanie do legitymacji stopnia niepełnosprawności,
+
+6) wystąpieniem o dopisanie do legitymacji symbolu przyczyny niepełnosprawności
+
+- nie pobiera się opłaty, o której mowa w ust. 1.
+
+4. W przypadkach, o których mowa w ust. 2 pkt 2 lub ust. 3, osoba niepełnosprawna jest zobowiązana przed wydaniem duplikatu lub nowej legitymacji, do zwrotu aktualnie posiadanej legitymacji, która jest następnie uszkadzana fizycznie przez osobę wydającą duplikat lub nową legitymację poprzez jej przecięcie w taki sposób, aby uszkodzeniu uległa fotografia wraz z QR kodem.
+
+5. Unieważnioną legitymację zwraca się osobie niepełnosprawnej.
+
+6. Nie pobiera się opłaty w przypadkach określonych w ust. 3 pkt 1-6 w stosunku do osób niepełnosprawnych lub ich przedstawicieli ustawowych posługujących się wyłącznie mLegitymacją ON.";
+
+3) w art. 6d:
+
+a) ust. 2 otrzymuje brzmienie:
+
+„2. Pełnomocnik i minister właściwy do spraw zabezpieczenia społecznego są współadministratorami danych zgromadzonych w systemie. Powiatowe zespoły i wojewódzkie zespoły są administratorami danych w prowadzonych przez siebie bazach danych systemu.",
+
+b) w ust. 4a dodaje się pkt 9 w brzmieniu:
+
+„9) ministrowi właściwemu do spraw informatyzacji, który świadczy usługę, o której mowa w art. 2 ustawy z dnia … o aplikacji mObywatel, pozwalającą użytkownikowi aplikacji mObywatel na posługiwanie się dokumentem elektronicznym, jakim jest mLegitymacja ON.".
+
 **Art. 13.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 i 1087) wprowadza się następujące zmiany:
 
 1)	uchyla się art. 19e - 19j;
