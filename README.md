@@ -58,9 +58,9 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 |------|------|-------|------|--------|--------|
 | [dokument564010](outputs/arrangements/dokument564010.md) | 14.06.2022 | Minister Zdrowia | Uwagi do projektu ustawy | ~450 | [PR #3](https://github.com/ewakaaaa/LawAsACode/pull/3) |
 | [dokument564013](outputs/arrangements/dokument564013.md) | 14.06.2022 | Minister Sportu i Turystyki | Uwagi do projektu ustawy | ~230 | [PR #4](https://github.com/ewakaaaa/LawAsACode/pull/4) |
-| [dokument564008](outputs/arrangements/dokument564008.md) | 16.06.2022 | Minister Infrastruktury | Uwagi do projektu ustawy | ~387 | |
-| [dokument564003](outputs/arrangements/dokument564003.md) | 17.06.2022 | Koordynator OSR, KPRM | Uwagi do Oceny Skutków Regulacji | ~221 | |
-| [dokument564014](outputs/arrangements/dokument564014.md) | 19.06.2022 | Rządowe Centrum Legislacji | Uwagi legislacyjne RCL | ~13 668 | |
+| [dokument564008](outputs/arrangements/dokument564008.md) | 16.06.2022 | Minister Infrastruktury | Uwagi do projektu ustawy | ~387 | [PR #7](https://github.com/ewakaaaa/LawAsACode/pull/7) |
+| [dokument564003](outputs/arrangements/dokument564003.md) | 17.06.2022 | Koordynator OSR, KPRM | Uwagi do Oceny Skutków Regulacji | ~221 | Pominięte — dotyczy OSR |
+| [dokument564014](outputs/arrangements/dokument564014.md) | 19.06.2022 | Rządowe Centrum Legislacji | Uwagi legislacyjne RCL | ~13 668 | [PR #8](https://github.com/ewakaaaa/LawAsACode/pull/8) |
 | [dokument563986](outputs/arrangements/dokument563986.md) | ~21.06.2022 | Minister Rodziny i Polityki Społecznej | Uwagi + propozycja dodania mLegitymacji osoby niepełnosprawnej | ~465 | [PR #6](https://github.com/ewakaaaa/LawAsACode/pull/6) |
 | [dokument563989](outputs/arrangements/dokument563989.md) | ~21.06.2022 | Minister Rodziny i Polityki Społecznej | Propozycja zmian w przepisach ustawy o rehabilitacji (załącznik) | ~3 945 | [PR #6](https://github.com/ewakaaaa/LawAsACode/pull/6) |
 | [dokument564012](outputs/arrangements/dokument564012.md) | 21.06.2022 | Minister Sprawiedliwości | Uwagi do projektu ustawy | ~1 969 | |
