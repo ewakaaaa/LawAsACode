@@ -6,7 +6,7 @@ z dnia ………… 2022 r.
 
 o aplikacji mObywatel)
 
-**Art. 1. **Ustawa określa zasady funkcjonowania i wykorzystywania publicznego oprogramowania, wykorzystywanego do udostępniania i świadczenia usług, przeznaczonego dla urządzeń mobilnych, zwanego dalej „aplikacją mObywatel”, którego użytkownikami są osoby fizyczne.
+**Art. 1. **Ustawa określa zasady funkcjonowania i wykorzystywania oprogramowania, wykorzystywanego do udostępniania i świadczenia usług, przeznaczonego dla urządzeń mobilnych, zwanego dalej „aplikacją mObywatel”, którego użytkownikami są osoby fizyczne.
 
 **Art. 2. **1.** **Minister właściwy do spraw informatyzacji udostępnia w aplikacji mObywatel usługi, z których użytkownik tej aplikacji może korzystać przy użyciu urządzenia mobilnego, pozwalające w szczególności na:
 
@@ -40,7 +40,9 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 4)	datę urodzenia;
 
-5)	fotografię.
+5)	fotografię;
+
+6)	obywatelstwo.
 
 4. Dokument elektroniczny, o którym mowa w ust. 3, oprócz danych, o których mowa w ust 3, może zawierać także inne dane pobrane z rejestrów publicznych lub systemów teleinformatycznych, o których mowa w art. 4 ust. 4 i 5, w szczególności:
 
@@ -94,7 +96,7 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 3)	zapewnia bezpieczeństwo oraz integralność danych przekazywanych pomiędzy aplikacją mObywatel, systemem teleinformatycznym, o którym mowa w pkt 2, oraz systemami teleinformatycznymi podmiotów świadczących usługi w tej aplikacji;
 
-4)	udostępnia narzędzia, które umożliwiają potwierdzenie ważności, integralności oraz pochodzenia dokumentów elektronicznych obsługiwanych w ramach usług świadczonych w aplikacji mObywatel, w tym aplikację na urządzenia mobilne – mWeryfikator;
+4)	udostępnia narzędzia, które umożliwiają potwierdzenie autentyczności, ważności, integralności oraz pochodzenia dokumentów elektronicznych obsługiwanych w ramach usług świadczonych w aplikacji mObywatel, w tym aplikację na urządzenia mobilne – mWeryfikator;
 
 5)	zapewnia, przy użyciu systemu teleinformatycznego, o którym mowa w pkt 2, funkcjonowanie oraz możliwość wykorzystywania i weryfikacji certyfikatu, pozwalającego na:
 
