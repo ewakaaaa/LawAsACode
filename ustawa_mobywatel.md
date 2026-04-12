@@ -184,12 +184,6 @@ c)	o dowodzie rejestracyjnym oraz jego wtórniku:
 
 –	oznaczenie organu wydającego dokument,
 
-d)	o karcie pojazdu oraz jej wtórniku:
-
-–	serię i numer dokumentu,
-
-–	datę wydania dokumentu,
-
 e)	o zakładzie ubezpieczeń, który zawarł umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu:
 
 –	handlową nazwę zakładu ubezpieczeń,
@@ -406,7 +400,7 @@ b)	informacja o wymaganiach technicznych dotyczących korzystania z aplikacji mO
 
 **Art. 9.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2022 r. poz. 559, 583, 1005 i 1079) w art. 7 dodaje się ust. 2a w brzmieniu:
 
-„2a. Minister właściwy do spraw informatyzacji zapewnia gminie możliwość świadczenia usługi umożliwiającej wydawanie i wykorzystywanie dokumentów elektronicznych, które poświadczają długoterminowe uprawnienia do korzystania z lokalnego transportu zbiorowego, obsługiwanych przy użyciu publicznej aplikacji mobilnej, o której mowa w ustawie z dnia … o aplikacji mObywatel (Dz. U. poz.  …).”.
+„2a. Minister właściwy do spraw informatyzacji zapewnia gminie możliwość świadczenia usługi umożliwiającej wydawanie i wykorzystywanie dokumentów elektronicznych, które poświadczają długoterminowe uprawnienia do korzystania z lokalnego transportu zbiorowego, obsługiwanych przy użyciu aplikacji mObywatel, o której mowa w ustawie z dnia … o aplikacji mObywatel (Dz. U. poz.  …).”.
 
 **Art. 10.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116) w art. 11 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
 
