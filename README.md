@@ -37,7 +37,7 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 
 ### Pismo przewodnie
 
-[dokument559317](outputs/arrangements/dokument559317.md) — pismo KPRM (Janusz Cieszyński) rozsyłające projekt do uzgodnień międzyresortowych z prośbą o uwagi w terminie 14 dni.
+[dokument559317](outputs/arrangements/dokument559317.md) — pismo KPRM (Sekretarz Stanu) rozsyłające projekt do uzgodnień międzyresortowych z prośbą o uwagi w terminie 14 dni.
 
 ### Uwagi ministerstw
 
@@ -45,14 +45,14 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 |------|-------|------|--------|
 | [dokument563986](outputs/arrangements/dokument563986.md) | Minister Rodziny i Polityki Społecznej | Uwagi + propozycja dodania mLegitymacji osoby niepełnosprawnej | |
 | [dokument563989](outputs/arrangements/dokument563989.md) | Minister Rodziny i Polityki Społecznej | Propozycja zmian w przepisach ustawy o rehabilitacji (załącznik) | |
-| [dokument564003](outputs/arrangements/dokument564003.md) | Koordynator OSR (Antoni Olszewski, KPRM) | Uwagi do Oceny Skutków Regulacji | |
+| [dokument564003](outputs/arrangements/dokument564003.md) | Koordynator OSR, KPRM | Uwagi do Oceny Skutków Regulacji | |
 | [dokument564005](outputs/arrangements/dokument564005.md) | Minister Edukacji i Nauki | Uwagi do projektu ustawy | |
 | [dokument564008](outputs/arrangements/dokument564008.md) | Minister Infrastruktury | Uwagi do projektu ustawy | |
-| [dokument564009](outputs/arrangements/dokument564009.md) | Minister ds. Unii Europejskiej (Konrad Szymański) | Opinia o zgodności z prawem UE | |
+| [dokument564009](outputs/arrangements/dokument564009.md) | Minister ds. Unii Europejskiej | Opinia o zgodności z prawem UE | |
 | [dokument564010](outputs/arrangements/dokument564010.md) | Minister Zdrowia | Uwagi do projektu ustawy | [PR #1](https://github.com/ewakaaaa/LawAsACode/pull/1) |
 | [dokument564012](outputs/arrangements/dokument564012.md) | Minister Sprawiedliwości | Uwagi do projektu ustawy | |
-| [dokument564013](outputs/arrangements/dokument564013.md) | Minister Sportu i Turystyki (Kamil Bortniczuk) | Uwagi do projektu ustawy | |
-| [dokument564014](outputs/arrangements/dokument564014.md) | Rządowe Centrum Legislacji (Krzysztof Szczucki) | Uwagi legislacyjne RCL | |
+| [dokument564013](outputs/arrangements/dokument564013.md) | Minister Sportu i Turystyki | Uwagi do projektu ustawy | |
+| [dokument564014](outputs/arrangements/dokument564014.md) | Rządowe Centrum Legislacji | Uwagi legislacyjne RCL | |
 | [dokument564086](outputs/arrangements/dokument564086.md) | Minister Spraw Wewnętrznych i Administracji | Uwagi do projektu ustawy | |
 
 ### Podsumowanie uzgodnień
