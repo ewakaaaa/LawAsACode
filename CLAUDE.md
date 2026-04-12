@@ -5,3 +5,5 @@
 - **Dokumentuj decyzje w README** — ten projekt jest na demo dla przelozonych, README sluzy jako materiał prezentacyjny.
 - Branch na uwagi ministerstwa nazywamy: `uwagi_ministerstwa_<nazwa>` (np. `uwagi_ministerstwa_zdrowia`).
 - Jezyk PR-ow i komentarzy: polski.
+- Szukajac przepisow w ustawie, szukaj po numerach artykulow/ustepow/punktow (np. "Art. 3", "ust. 1 pkt 4"), a dopiero jak nie znajdziesz — po slowach kluczowych.
+- Skupiamy sie tylko na tresci ustawy o mObywatel (`ustawa_mobywatel.md`). Jesli uwaga dotyczy zmian w innej ustawie (np. o rehabilitacji, Kodeks karny), ktorej nie mamy w repo — ignorujemy ja. Dodajemy/usuwamy/modyfikujemy tylko przepisy naszej ustawy.
