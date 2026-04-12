@@ -22,6 +22,7 @@ Stanowiska i opinie w ramach uzgodnień międzyresortowych:
 
 | Plik | Autor | Opis | Status |
 |------|-------|------|--------|
+| dokument559317 | KPRM (Janusz Cieszyński) | Pismo przewodnie rozsyłające projekt do uzgodnień (termin 14 dni) | |
 | [dokument559316](outputs/arrangements/dokument559316.md) | KPRM — projektodawca | Projekt ustawy o aplikacji mObywatel (tekst bazowy) | Tekst bazowy na `main` |
 | [dokument563986](outputs/arrangements/dokument563986.md) | Minister Rodziny i Polityki Społecznej | Uwagi do projektu ustawy | |
 | [dokument563989](outputs/arrangements/dokument563989.md) | Minister Rodziny i Polityki Społecznej | Propozycja zmian w przepisach ustawy o rehabilitacji (załącznik) | |
