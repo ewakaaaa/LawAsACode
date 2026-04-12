@@ -16,15 +16,21 @@ Dokumenty zrodlowe: https://legislacja.gov.pl/projekt/12360454/
 
 ## Mapa dokumentów — etap uzgodnień
 
-Plik główny: [`ustawa_mobywatel.md`](ustawa_mobywatel.md) — projekt ustawy o aplikacji mObywatel (3 czerwca 2022 r.)
+### Projekt ustawy
 
-Stanowiska i opinie w ramach uzgodnień międzyresortowych:
+[`ustawa_mobywatel.md`](ustawa_mobywatel.md) — projekt ustawy o aplikacji mObywatel (3 czerwca 2022 r.). Tekst bazowy na branczu `main`, na którym pracujemy.
+
+Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
+
+### Pismo przewodnie
+
+dokument559317 — pismo KPRM (Janusz Cieszyński) rozsyłające projekt do uzgodnień międzyresortowych z prośbą o uwagi w terminie 14 dni.
+
+### Uwagi ministerstw
 
 | Plik | Autor | Opis | Status |
 |------|-------|------|--------|
-| dokument559317 | KPRM (Janusz Cieszyński) | Pismo przewodnie rozsyłające projekt do uzgodnień (termin 14 dni) | |
-| [dokument559316](outputs/arrangements/dokument559316.md) | KPRM — projektodawca | Projekt ustawy o aplikacji mObywatel (tekst bazowy) | Tekst bazowy na `main` |
-| [dokument563986](outputs/arrangements/dokument563986.md) | Minister Rodziny i Polityki Społecznej | Uwagi do projektu ustawy | |
+| [dokument563986](outputs/arrangements/dokument563986.md) | Minister Rodziny i Polityki Społecznej | Uwagi + propozycja dodania mLegitymacji osoby niepełnosprawnej | |
 | [dokument563989](outputs/arrangements/dokument563989.md) | Minister Rodziny i Polityki Społecznej | Propozycja zmian w przepisach ustawy o rehabilitacji (załącznik) | |
 | [dokument564003](outputs/arrangements/dokument564003.md) | Koordynator OSR (Antoni Olszewski, KPRM) | Uwagi do Oceny Skutków Regulacji | |
 | [dokument564005](outputs/arrangements/dokument564005.md) | Minister Edukacji i Nauki | Uwagi do projektu ustawy | |
@@ -35,9 +41,15 @@ Stanowiska i opinie w ramach uzgodnień międzyresortowych:
 | [dokument564013](outputs/arrangements/dokument564013.md) | Minister Sportu i Turystyki (Kamil Bortniczuk) | Uwagi do projektu ustawy | |
 | [dokument564014](outputs/arrangements/dokument564014.md) | Rządowe Centrum Legislacji (Krzysztof Szczucki) | Uwagi legislacyjne RCL | |
 | [dokument564086](outputs/arrangements/dokument564086.md) | Minister Spraw Wewnętrznych i Administracji | Uwagi do projektu ustawy | |
-| [dokument589924](outputs/arrangements/dokument589924.md) | Minister Cyfryzacji | Pismo do uczestników uzgodnień z wynikami etapu | |
-| [dokument589929](outputs/arrangements/dokument589929.md) | KPRM — projektodawca | Zestawienie uwag z odniesieniem projektodawcy | |
-| [dokument590065](outputs/arrangements/dokument590065.md) | KPRM — projektodawca | Zaktualizowany projekt ustawy po uzgodnieniach (28.11.2022) — punkt odniesienia |
+
+### Podsumowanie uzgodnień
+
+- [dokument589924](outputs/arrangements/dokument589924.md) — pismo Ministra Cyfryzacji informujące, że wszystkie uwagi zostały uwzględnione bądź wyjaśnione
+- [dokument589929](outputs/arrangements/dokument589929.md) — zestawienie uwag z odniesieniem projektodawcy (odpowiedzi na każdą uwagę)
+
+### Treść ustawy po uzgodnieniach
+
+[dokument590065](outputs/arrangements/dokument590065.md) — zaktualizowany projekt ustawy (28 listopada 2022 r.). Punkt odniesienia — po zmergowaniu wszystkich PR-ów powinniśmy dojść do tej wersji.
 
 ## Struktura
 
