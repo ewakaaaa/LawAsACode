@@ -10,7 +10,7 @@ o aplikacji mObywatel)
 
 **Art. 2. **1.** **Minister właściwy do spraw informatyzacji udostępnia w aplikacji mObywatel usługi, z których użytkownik tej aplikacji może korzystać przy użyciu urządzenia mobilnego, pozwalające w szczególności na:
 
-1)	pobranie, przechowywanie, prezentację oraz przekazywanie, przy użyciu urządzenia mobilnego, dokumentu elektronicznego zawierającego dane pobrane z rejestru publicznego lub z systemu teleinformatycznego podmiotu publicznego:
+1)	pobranie, przechowywanie, prezentację oraz przekazywanie, przy użyciu urządzenia mobilnego, dokumentu elektronicznego zawierającego pobrane z rejestru publicznego lub z systemu teleinformatycznego podmiotu publicznego:
 
 a)	niezbędne dane osobowe tego użytkownika,
 
@@ -72,9 +72,13 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 14)	adres zameldowania;
 
-15)	datę zameldowania.
+15)	datę zameldowania;
+
+16)	elektroniczny certyfikat publiczny wystawcy dokumentu.
 
 5. Dokument elektroniczny, o którym mowa ust. 3, jest dokumentem stwierdzającym tożsamość i obywatelstwo polskie osoby na terytorium Rzeczypospolitej Polskiej, w zakresie danych w nim zawartych, w relacjach wzajemnej fizycznej obecności stron.
+
+5a. Dokument elektroniczny, o którym mowa w ust. 3, nie jest dokumentem uprawniającym do przekraczania granicy państwowej.
 
 6. Jeżeli z przepisu prawa wynika obowiązek okazania dowodu osobistego w celu potwierdzenia tożsamości, obowiązek ten uznaje się za spełniony przez użycie dokumentu, o którym mowa w ust. 3.
 
@@ -112,7 +116,7 @@ b)	identyfikację i uwierzytelnienie użytkownika aplikacji mObywatel w usługac
 
 3)	numer PESEL;
 
-4)	numer seryjny certyfikatu.
+4)	część publiczną certyfikatu.
 
 3. Certyfikat, o którym mowa w ust. 1 pkt 5, wydany wraz z mLegitymacją szkolną, o której mowa w  art. 11 ust. 1b ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116), lub z mLegitymacją studencką, o której mowa w  art. 74 ust. 4a ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 582, 665, 682, 682, 807, 1010, 1079 i  1117), zawiera dane użytkownika aplikacji mObywatel:
 
@@ -122,7 +126,7 @@ b)	identyfikację i uwierzytelnienie użytkownika aplikacji mObywatel w usługac
 
 3)	numer PESEL;
 
-4)	numer seryjny certyfikatu;
+4)	część publiczną certyfikatu;
 
 5)	numer identyfikujący legitymację.
 
@@ -382,7 +386,7 @@ c)	certyfikatu, o którym mowa w art. 3 ust. 1 pkt 5, oraz zakres danych zawart
 
 5. Wniosek, o których mowa w ust. 1, oraz porozumienie, o którym mowa w ust. 2, opatruje się kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym.
 
-**Art. 7. **Minister właściwy do spraw informatyzacji przetwarza w systemie teleinformatycznym, o którym mowa w art. 3 ust. 1 pkt 2, dane osobowe użytkowników aplikacji mObywatel w zakresie niezbędnym do realizacji usług udostępnionych w tej aplikacji, a także w celu zapewnienia bezpieczeństwa teleinformatycznego i bezpieczeństwa obrotu prawnego. Dane osobowe przetwarzane są przez ministra właściwego do spraw informatyzacji przez okres 6 lat od dnia ostatniej aktywności użytkownika aplikacji mObywatel, którego te dane dotyczą.
+**Art. 7. **Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w systemie teleinformatycznym, o którym mowa w art. 3 ust. 1 pkt 2, i przetwarza w tym systemie dane osobowe użytkowników aplikacji mObywatel w zakresie niezbędnym do realizacji usług udostępnionych w tej aplikacji, a także w celu zapewnienia bezpieczeństwa teleinformatycznego i bezpieczeństwa obrotu prawnego. Dane osobowe przetwarzane są przez ministra właściwego do spraw informatyzacji przez okres 6 lat od dnia ostatniej aktywności użytkownika aplikacji mObywatel, którego te dane dotyczą.
 
 **Art. 8. **1.** **Minister właściwy do spraw informatyzacji, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, udostępnia oraz niezwłocznie aktualizuje informacje o:
 
@@ -402,7 +406,7 @@ b)	informacja o wymaganiach technicznych dotyczących korzystania z aplikacji mO
 
 2. Podmiot świadczący usługę w aplikacji mObywatel niezwłocznie informuje ministra właściwego do spraw informatyzacji, przy użyciu dostępnych środków komunikacji, o wszelkich przypadkach uzasadniających czasowe zawieszenie lub stałe zaprzestanie świadczenia tej usługi.
 
-**Art. 9.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2022 r. poz. 559, 583, 1005 i 1079) w art. 7 dodaje się ust. 2a w brzmieniu:
+**Art. 9.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2022 r. poz. 1343) dodaje się przepis w brzmieniu:
 
 „2a. Minister właściwy do spraw informatyzacji zapewnia gminie możliwość świadczenia usługi umożliwiającej wydawanie i wykorzystywanie dokumentów elektronicznych, które poświadczają długoterminowe uprawnienia do korzystania z lokalnego transportu zbiorowego, obsługiwanych przy użyciu publicznej aplikacji mobilnej, o której mowa w ustawie z dnia … o aplikacji mObywatel (Dz. U. poz.  …).”.
 
@@ -412,7 +416,7 @@ b)	informacja o wymaganiach technicznych dotyczących korzystania z aplikacji mO
 
 1b. Na wniosek pełnoletniego ucznia lub rodzica niepełnoletniego ucznia szkoła wydaje legitymację szkolną w postaci mLegitymacji szkolnej, stanowiącej dokument elektroniczny wydany w aplikacji mObywatel, o której mowa w ustawie z dnia… o aplikacji mObywatel (Dz. U. poz.  …).”.
 
-**Art. 11.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138) w art. 269b § 1 wyrazy „albo art. 269a” zastępuje się wyrazami „ , art. 269a albo art. 270 § 1”.
+**Art. 11.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138) w art. 269b § 1 wyrazy „albo art. 269a” zastępuje się wyrazami „ ,art. 269a, art. 270 § 1 albo art. 270a § 1”.
 
 **Art. 12.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988 i 1002) w art. 80d ust. 5 otrzymuje brzmienie:
 
@@ -744,7 +748,7 @@ Do tej grupy aktualnie należy: eRecepta, Punkty Karne, Bilkom – bilety kolejo
 
 W ramach dostępnych w aplikacji mObywatel usług minister właściwy do spraw informatyzacji jest:
 
-1)	administratorem danych niezbędnych do wydania certyfikatu użytkownika aplikacji, wskazanych w art. 3 ust. 2 projektu ustawy, tj. imię (imiona), nazwisko, numer PESEL, numer seryjny certyfikatu, a w zakresie mLegitymacji także numer identyfikujący legitymację;
+1)	administratorem danych niezbędnych do wydania certyfikatu użytkownika aplikacji, wskazanych w art. 3 ust. 2 projektu ustawy, tj. imię (imiona), nazwisko, numer PESEL, część publiczną certyfikatu, a w zakresie mLegitymacji także numer identyfikujący legitymację;
 
 2)	podmiotem przetwarzającym dane pochodzące z rejestru lub systemu teleinformatycznego, którego administratorem nie jest minister właściwy do spraw informatyzacji, znajdujące się w tzw. dokumentach elektronicznych offline (tj. mLegitymacja szkolna, mLegitymacja studencka) i które nie są niezbędne do wydania certyfikatu,
 
