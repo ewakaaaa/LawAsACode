@@ -1,0 +1,17 @@
+{
+  "pr_number": 7,
+  "ministerstwo": "Minister Infrastruktury",
+  "data_pisma": "16.06.2022",
+  "dokument_zrodlowy": "dokument564008",
+  "liczba_review_comments": 1,
+  "liczba_issue_comments": 0,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 185,
+      "strona": "LEFT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga nieaktualna. Brzmienie ocenianej jednostki zostało zmienione w związku z innymi uwagami.\n\nŹródło: [`dokument589929`](outputs/arrangements/dokument589929.md)"
+    }
+  ]
+}

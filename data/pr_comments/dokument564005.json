@@ -1,0 +1,24 @@
+{
+  "pr_number": 11,
+  "ministerstwo": "Minister Edukacji i Nauki",
+  "data_pisma": "28.06.2022",
+  "dokument_zrodlowy": "dokument564005",
+  "liczba_review_comments": 1,
+  "liczba_issue_comments": 1,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 145,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga częściowo uwzględniona. Przepis (aktualnie art. 21) przeredagowany tak, aby uwzględniał obie formy legitymacji studenckiej. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "### Art. 16 — mLegitymacja studencka\n\nMEiN wskazuje, że proponowane brzmienie art. 16 nie rozwiązuje kwestii obligatoryjności ELS i relacji z mLegitymacją studencką. Konieczne jest wypracowanie rozwiązań, które pozwolą nadać mLegitymacji studenckiej status odrębnej formy legitymacji.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga częściowo uwzględniona. Przepis przeredagowany — uwzględnia dopuszczalność obu form legitymacji. Rozwiązania techniczne zainicjowane na podstawie komunikatu ministra w porozumieniu z ministrem ds. szkolnictwa wyższego (art. 31). Źródło: dokument589929"
+    }
+  ]
+}

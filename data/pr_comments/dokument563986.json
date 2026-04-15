@@ -1,0 +1,17 @@
+{
+  "pr_number": 6,
+  "ministerstwo": "Minister Rodziny i Polityki Spolecznej",
+  "data_pisma": "~21.06.2022",
+  "dokument_zrodlowy": "dokument563986",
+  "liczba_review_comments": 1,
+  "liczba_issue_comments": 0,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 430,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Projekt zostanie uzupełniony o zmiany w ustawie o rehabilitacji zawodowej i społecznej umożliwiające korzystanie z mLegitymacji osoby niepełnosprawnej w aplikacji mObywatel.\n\nŹródło: [`dokument589929`](outputs/arrangements/dokument589929.md)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pr_number": 10,
+  "ministerstwo": "Minister Sprawiedliwosci",
+  "data_pisma": "21.06.2022",
+  "dokument_zrodlowy": "dokument564012",
+  "liczba_review_comments": 4,
+  "liczba_issue_comments": 1,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 45,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 81,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Kwestionowane wyrażenie zostało usunięte z przepisu. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 77,
+      "strona": "LEFT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona (nieuwzględniona). Użycie mWeryfikatora wymaga Bluetooth — komunikacji krótkiego zasięgu. Projekt przewiduje narzędzia do potwierdzenia tożsamości na odległość w usługach online (art. 2 ust. 1 pkt 3). Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 87,
+      "strona": "LEFT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** [1] Uwaga uwzględniona — ust. 7 (uprzednio ust. 8) został przeredagowany. [2] Częściowo uwzględniona. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "### Pkt 5 — przesłanie do Krajowej Rady Notarialnej\n\nDotyczy OSR (pkt 4), nie tekstu ustawy — brak zmian w pliku.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Projekt udostępniono na stronie RCL w zakładce Rządowy Proces Legislacyjny oraz w BIP, umożliwiając wszystkim zainteresowanym podmiotom zapoznanie się z treścią. Źródło: dokument589929"
+    }
+  ]
+}

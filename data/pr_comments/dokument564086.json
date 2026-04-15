@@ -1,0 +1,136 @@
+{
+  "pr_number": 13,
+  "ministerstwo": "Minister Spraw Wewnetrznych i Administracji",
+  "data_pisma": "b.d.",
+  "dokument_zrodlowy": "dokument564086",
+  "liczba_review_comments": 7,
+  "liczba_issue_comments": 11,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 13,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 77,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Dokument ten będzie opatrzony zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji lub obsługującego ten organ urzędu, zgodnie z art. 3 ust. 1 pkt 5 lit. a projektu, co pozwoli na potwierdzenie jego ważności, integralności, autentyczności i pochodzenia. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 81,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga częściowo uwzględniona. Wyjątek stanowiący, że dokument elektroniczny, o którym mowa w art. 2 ust. 3 projektu, nie jest dokumentem uprawniającym do przekraczania granicy państwowej, zostanie uregulowany w rozporządzeniu Rady Ministrów, które wydane zostanie na podstawie art. 2 ust. 8 projektowanej ustawy. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 119,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Dokonano ponownej analizy przepisu i podjęto decyzję o pozostawieniu przepisu bez zmian. Brak uzasadnienia dla postulowanej zmiany uniemożliwia zrozumienie intencji uwagi. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 389,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Przepis został odpowiednio zmodyfikowany. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 409,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Projekt został odpowiednio zmodyfikowany (aktualnie art. 16). Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 419,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Zgodnie z nowym brzmieniem: w art. 269b par. 1 wyrazy \"albo art. 269a\" zastępuje się wyrazami \",art. 269a, art. 270 par. 1 albo art. 270a par. 1\". Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 2 — Art. 2 ust. 1 pkt 1 lit. a (określenie „niezbędne\")**\n\nJednocześnie w ust. 1 w pkt 1 w lit. a użyte określenie „niezbędne\" jest nadmiarowe. Niezbędność danych jest pojęciem, które nie określa w sposób precyzyjny zakresu danych osobowych użytkownika.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Oceniana jednostka redakcyjna nie odnosi się do konkretnego dokumentu lecz stanowi o dopuszczalności udostępniania w aplikacji usług pozwalających na posługiwanie się rodzajowo takimi dokumentami elektronicznymi. Pojęcie „niezbędne\" ma na celu położenie nacisku na minimalizację zakresu danych osobowych wykorzystywanych w takich dokumentach elektronicznych. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 3 — Art. 2 ust. 1 pkt 1 lit. a vs ust. 3 (ujednolicenie terminologii)**\n\nProponuję ujednolicenie terminologii stosowanej w ust. 1 w pkt 1 w lit. a (gdzie wprowadzono określenie „dane osobowe\") oraz w ust. 3, w którym określając zakres danych użyto określenia „dane\", a nie „dane osobowe\".\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Na skutek zmian poczynionych w brzmieniu ust. 3 w związku z innymi uwagami, ust. ten będzie stanowił także o danych innych niż dane osobowe, stąd też nie uwzględniono przedmiotowej korekty. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 5 — Art. 2 ust. 5-10 (dokument stwierdzający tożsamość)**\n\nObszerna uwaga dotycząca przepisów art. 2 ust. 5-10, obejmująca m.in.:\n\n[1] Ograniczony zakres danych w ust. 3 — konieczne uzupełnienie obligatoryjnych danych analogicznie do art. 12 ust. 1 pkt 1 ustawy o dowodach osobistych.\n**Odpowiedź:** Uwaga uwzględniona. Projektodawca w nowym brzmieniu art. 2 ust. 3 określił podstawowy, obligatoryjny zbiór danych analogiczny jak w przypadku dowodu osobistego.\n\n[2] Niejasność „w relacjach wzajemnej fizycznej obecności stron\".\n**Odpowiedź:** Uwaga wyjaśniona. Fraza oznacza, że z dokumentu można korzystać w sytuacjach analogicznych jak w przypadku tradycyjnych dokumentów tożsamości, nie zaś na odległość.\n\n[3] Zagrożenie dla bezpieczeństwa — art. 2 ust. 6 bez powiązania z wydanym dowodem osobistym.\n**Odpowiedź:** Uwaga wyjaśniona. Celem projektodawcy jest zapewnienie obywatelom dostępu do elektronicznego dokumentu tożsamości, który będzie funkcjonował niezależnie od dowodu osobistego.\n\n[4] Brak terminu ważności dokumentu elektronicznego.\n**Odpowiedź:** Uwaga uwzględniona/wyjaśniona. Dodano przepis stanowiący, że dokument będzie wydawany na okres 5 lat (art. 2 ust. 10). Dodano daną „termin ważności dokumentu\".\n\n[5] Zbędność zastrzeżenia w art. 2 ust. 7.\n**Odpowiedź:** Uwaga nieaktualna w związku ze zmianą brzmienia projektu na skutek innych uwag.\n\n[6] Spójność terminologiczna ust. 5 vs ust. 6, 8, 9 — „stwierdzanie\" vs „potwierdzanie\" tożsamości.\n**Odpowiedź:** Uwaga uwzględniona. Brzmienie wskazanych jednostek skorygowano posługując się pojęciem „stwierdzenie tożsamości\".\n\n[7] Dodanie ust. 7 w art. 29a ustawy o dowodach osobistych — zakaz potwierdzania tożsamości przy wydaniu dowodu za pomocą dokumentu elektronicznego.\n**Odpowiedź:** Uwaga wyjaśniona. Dążeniem projektodawcy jest zapewnienie, aby dokument mObywatel stanowił bezpieczny, mobilny dokument tożsamości stosowany na równi z dowodem osobistym.\n\n[8] Odesłanie do ust. 2 w art. 2 ust. 10.\n**Odpowiedź:** Uwaga uwzględniona. Brzmienie art. 2 ust. 9 (uprzednio ust. 10) projektu zostało odpowiednio skorygowane.\n\nŹródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 6 — Art. 3 ust. 1 pkt 5 (okres ważności certyfikatu i weryfikacja offline)**\n\n[1] Projektowane regulacje nie wskazują okresu ważności certyfikatu co powinno zostać uwzględnione.\n**Odpowiedź:** Uwaga uwzględniona. Do art. 3 został dodany przepis stanowiący, na jaki okres wydawany jest certyfikat (patrz ust. 6).\n\n[2] Proponuję dodanie lit. c dotyczącego potwierdzenia ważności, integralności i pochodzenia dokumentów elektronicznych również w środowisku bez połączenia z systemem teleinformatycznym.\n**Odpowiedź:** Uwaga uwzględniona. Uwaga nieaktualna na skutek zmiany brzmienia projektu w związku z uwzględnieniem innych uwag.\n\nŹródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 8 — Art. 4 ust. 1 pkt 2 (wymóg posiadania ważnego dowodu osobistego)**\n\nUżytkownikiem aplikacji mObywatel w zakresie potwierdzania tożsamości i obywatelstwa powinna być wyłącznie osoba posiadająca ważny dowód osobisty. Nie jest możliwe przyjęcie rozwiązania, aby użytkownikiem była osoba, która tylko złożyła wniosek o wydanie dowodu osobistego.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. W opinii projektodawcy potwierdzenie tożsamości realizowane w urzędzie gminy przed wydaniem dowodu osobistego jest wystarczające, aby stwierdzić z całą pewnością, że osoba wnioskująca jest tą, za którą się podaje. Pozwala to na wydanie mobilnego dokumentu, który będzie potwierdzał tożsamość podczas fizycznej obecności osoby okazującej taki dokument oraz certyfikatu umożliwiającego korzystanie z usług online. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 9 — Art. 5 ust. 2 pkt 5 lit. c (dane w certyfikacie)**\n\nNie jest jasne, czy standard świadczenia usługi ma określać dodatkowe dane, czy chodzi o dane, o których mowa w art. 3 ust. 2 projektu.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga nieaktualna w związku z wprowadzonymi zmianami w brzmieniu projektu na skutek innych uwag. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 10 — Art. 5 ust. 2 pkt 6 (dane w akcie prawa powszechnie obowiązującego)**\n\nDane i dokumenty wymagane od wnioskodawcy powinny być określone w akcie prawa powszechnie obowiązującego, a nie w dokumencie, którego status nie jest do końca jasny.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga nieaktualna w związku z wprowadzonymi zmianami w brzmieniu projektu na skutek innych uwag. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 11 — Art. 5 ust. 5 i art. 6 ust. 3 (dostępność wzorów wniosków)**\n\nBrak doprecyzowania, gdzie wzory wniosków będą dostępne dla zainteresowanych podmiotów (np. w Biuletynie Informacji Publicznej na stronie podmiotowej).\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. W obu przypadkach sformułowano wymaganie podpisania wniosku jednym z wymienionych podpisów elektronicznych, co zobowiązuje wnioskodawcę do złożenia wniosku w formie dokumentu elektronicznego. Tym samym Minister Cyfryzacji będzie zobowiązany do określenia wzorów dokumentów elektronicznych, zgodnie z art. 16a ustawy o informatyzacji. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 12 — Art. 5 ust. 8 (forma odmowy świadczenia usługi)**\n\nNie wynika w sposób jednoznaczny w jakiej formie minister właściwy do spraw informatyzacji odmawia wnioskodawcy świadczenia usługi.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Odmowa świadczenia usługi wynikająca z art. 5 ust. 7 (ze względu na korektę projektu numeracja uległa zmianie) będzie wydawana z zastosowaniem przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. Uregulowanie odmowy w treści ustawy o aplikacji mObywatel stanowiłoby powtórzenie przepisów KPA i miało charakter nadmiarowy. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 16 — Uwaga ogólna (dodanie \"lub komputera\" po \"urządzenia mobilnego\")**\n\nW sytuacji upowszechnienia aplikacji konieczne będzie przygotowanie wersji na inne platformy sprzętowe, w szczególności komputery stacjonarne. Proponuję w art. 2 w ust. 1 we wprowadzeniu do wyliczenia oraz w pkt 1 i 5 po wyrazach „urządzenia mobilnego\" dodać wyrazy „lub komputera\". Analogiczna uwaga dotyczy art. 3 ust. 1 pkt 4 projektu.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Zgodnie z przyjętymi założeniami aplikacja mObywatel dedykowana jest na urządzenia mobilne. Jeżeli w przyszłości koncepcja przedmiotowej aplikacji zostanie rozwinięta, to projektodawca dokona stosownej nowelizacji projektowanej ustawy. Obecnie jednakże nie zidentyfikowano takiej potrzeby. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "**Uwaga 17 — Uwaga ogólna (weryfikacja danych przez Policję i Straż Graniczną)**\n\nUwaga dotycząca problemów z weryfikacją danych sprawdzanych osób przez funkcjonariuszy Policji i Straży Granicznej, w tym:\n- konieczność zapewnienia funkcjonariuszom odpowiednich narzędzi umożliwiających szybką i wiarygodną weryfikację dokumentów tożsamości\n- ograniczone możliwości stosowania aplikacji mWeryfikator przez policjantów ze względu na ochronę form i metod realizacji zadań (przetwarzanie danych w wydzielonej sieci bez Internetu)\n- problemy Straży Granicznej z brakiem odpowiedniego sprzętu i kompatybilnością systemu operacyjnego\n- postulat zapewnienia weryfikacji w wydzielonej Sieci Łączności Rządowej (GovNET)\n- postulat zagwarantowania, że art. 2 ust. 6 nie znajdzie zastosowania w przypadku okazania dowodu na wezwanie funkcjonariusza publicznego\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Weryfikacja dokumentów w aplikacji mObywatel będzie możliwa przy wykorzystaniu jednej z trzech metod: wizualnej, funkcjonalnej i kryptograficznej. Każda z wskazanych metod pozwala na poprawne przeprowadzenie weryfikacji. Metoda weryfikacji wizualnej na podstawie elementów graficznych oraz wizerunku twarzy pozwala na potwierdzenie autentyczności prezentowanego dokumentu elektronicznego. Decyzja o wyborze metody weryfikacji zależy od osoby, której taki dokument jest okazywany. Źródło: dokument589929"
+    }
+  ]
+}

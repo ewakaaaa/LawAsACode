@@ -1,0 +1,24 @@
+{
+  "pr_number": 4,
+  "ministerstwo": "Minister Sportu i Turystyki",
+  "data_pisma": "14.06.2022",
+  "dokument_zrodlowy": "dokument564013",
+  "liczba_review_comments": 1,
+  "liczba_issue_comments": 1,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 25,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga nieaktualna. Na skutek innych uwag przedmiotowa jednostka redakcyjna została przeredagowana.\n\nŹródło: [`dokument589929`](outputs/arrangements/dokument589929.md)"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "### Art. 3 ust. 1 pkt 4 — pojęcie „mWeryfikator\"\n\nUwaga: pojęcie „mWeryfikator\" jest niezdefiniowane w treści ustawy.\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona. Definicja wynika z brzmienia art. 3 ust. 1 pkt 4 projektu, tzn. jest to aplikacja, która pozwala na „potwierdzenie ważności, integralności, oraz pochodzenia dokumentów elektronicznych obsługiwanych w ramach usług świadczonych w aplikacji mObywatel\".\n\nŹródło: [`dokument589929`](outputs/arrangements/dokument589929.md)"
+    }
+  ]
+}

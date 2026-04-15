@@ -1,0 +1,17 @@
+{
+  "pr_number": 3,
+  "ministerstwo": "Minister Zdrowia",
+  "data_pisma": "14.06.2022",
+  "dokument_zrodlowy": "dokument564010",
+  "liczba_review_comments": 1,
+  "liczba_issue_comments": 0,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 77,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona (nieuwzględniona). Projektodawca aktualnie nie przewiduje przetwarzania danych medycznych w aplikacji mObywatel. Jeżeli taka potrzeba zostanie zidentyfikowana, zaproponowane zostaną odpowiednie zmiany prawne.\n\nŹródło: [`dokument589929`](outputs/arrangements/dokument589929.md)"
+    }
+  ]
+}

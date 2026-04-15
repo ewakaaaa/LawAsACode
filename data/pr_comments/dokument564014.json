@@ -1,0 +1,80 @@
+{
+  "pr_number": 9,
+  "ministerstwo": "Rzadowe Centrum Legislacji",
+  "data_pisma": "19.06.2022",
+  "dokument_zrodlowy": "dokument564014",
+  "liczba_review_comments": 9,
+  "liczba_issue_comments": 1,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 9,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Słowo publiczny zostanie usunięte. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 11,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona — zamknięto katalog usług. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 15,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona — usunięto nadmiarowe słowo niezbędne. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 21,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona — doprecyzowano, że dotyczy osoby niepełnoletniej. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 45,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona — w celu uspójnienia ust. 3 i ust. 5 dodano obywatelstwo. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 47,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona — projektodawca planując nową usługę będzie każdorazowo analizował zakres zmian prawnych. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 99,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona — dodano wyraz autentyczności. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 185,
+      "strona": "LEFT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga nieaktualna — brzmienie zmienione w związku z innymi uwagami. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 403,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona — przepis zmodyfikowany, przeniesiony do art. 16. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "## Uwagi RCL bez konkretnej propozycji zmiany tekstu\n\nPoniższe uwagi mają charakter analityczny — RCL wskazuje na potrzebę ponownej analizy, wyjaśnienia lub uzupełnienia. Nie zawierają konkretnego nowego brzmienia przepisu.\n\n- **Pkt 1 (uwaga ogólna)** — rozważyć uzupełnienie ustawy o informatyzacji zamiast nowej ustawy\n- **Pkt 4 (art. 2 ust. 1 pkt 2)** — doprecyzować przekazywanie danych innemu podmiotowi\n- **Pkt 5 (art. 2 ust. 1 pkt 3)** — wyjaśnić kwestię identyfikacji w usługach online\n- **Pkt 6 (art. 2 ust. 1 pkt 5)** — wyjaśnić czynniki uwierzytelniania profilu zaufanego\n- **Pkt 9 (art. 2 ust. 6)** — nowelizacja pośrednia, brak obywatelstwa w ust. 6\n- **Pkt 10 (art. 2 ust. 7)** — niejasne na czym polega „użycie\" dokumentu elektronicznego\n- **Pkt 11 (art. 2 ust. 8)** — brak katalogu wyłączeń, upoważnienie powinno być obligatoryjne\n- **Pkt 12 (art. 2 ust. 10)** — odesłania do „faktów i stanu prawnego\" wymagają korekty\n- **Pkt 13 (art. 3 ust. 1)** — certyfikat jako narzędzie weryfikacji, niepoprawne odesłanie do ust. 9\n- **Pkt 14 (art. 3 ust. 4)** — brak doprecyzowania „właściwych\" jednostek podległych\n- **Pkt 15 (art. 3 ust. 5)** — wątpliwości dot. finansowania z Funduszu CEPiK\n- **Pkt 16 (art. 4 ust. 1 i 2)** — wyjaśnić kwestię uwierzytelniania użytkowników\n- **Pkt 17 (art. 4 ust. 3 / art. 7)** — relacja rezygnacji z aplikacji i przetwarzania danych\n- **Pkt 18a,c (art. 4 ust. 4)** — poprawność danych z rejestrów, dane z CEK\n- **Pkt 19 (art. 4 ust. 5)** — upoważnienie do rozporządzenia wymaga korekty\n- **Pkt 20 (art. 4 ust. 6)** — katalog przypadków unieważnienia certyfikatu\n- **Pkt 21 (art. 5)** — standard świadczenia usługi, procedura wniosku\n- **Pkt 22 (art. 6)** — „świadczenie\" vs „udostępnianie\" usługi, porozumienia\n- **Pkt 23 (art. 8 ust. 1)** — brak obowiązku sporządzenia regulaminu\n- **Pkt 25 (art. 10, art. 16)** — zgodność mLegitymacji z istniejącymi rozporządzeniami\n- **Pkt 26 (art. 13)** — zasadność zmian w ustawie o informatyzacji\n- **Pkt 27 (art. 14)** — spójność dot. certyfikatu w systemie ochrony zdrowia\n- **Pkt 28 (art. 15)** — uspójnienie dot. Karty Dużej Rodziny\n\nŹródło: dokument564014, dokument589929"
+    }
+  ]
+}

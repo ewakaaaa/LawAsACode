@@ -1,0 +1,31 @@
+{
+  "pr_number": 12,
+  "ministerstwo": "Minister ds. Unii Europejskiej",
+  "data_pisma": "01.07.2022",
+  "dokument_zrodlowy": "dokument564009",
+  "liczba_review_comments": 2,
+  "liczba_issue_comments": 1,
+  "uwagi": [
+    {
+      "typ": "review_comment",
+      "linia": 21,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Brzmienie uzupełnione — dotyczy osoby niepełnoletniej. Źródło: dokument589929"
+    },
+    {
+      "typ": "review_comment",
+      "linia": 45,
+      "strona": "RIGHT",
+      "sciezka": "ustawa_mobywatel.md",
+      "tresc": "**Odpowiedź autora ustawy (projektodawcy):** Uwaga wyjaśniona (nieuwzględniona). Projektodawca planując nową usługę będzie każdorazowo analizował zakres zmian prawnych. Źródło: dokument589929"
+    },
+    {
+      "typ": "issue_comment",
+      "linia": null,
+      "strona": null,
+      "sciezka": null,
+      "tresc": "### Art. 7 — minimalizacja danych\n\n**Odpowiedź autora ustawy (projektodawcy):** Uwaga uwzględniona. Brzmienie art. 7 poddane ponownej analizie — dane przetwarzane w celu udostępnienia usług w aplikacji mObywatel. Źródło: dokument589929"
+    }
+  ]
+}
