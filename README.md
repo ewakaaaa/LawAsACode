@@ -54,12 +54,18 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 
 ### Uwagi ministerstw
 
-| Plik | Data | Autor | Opis | Tokeny | Status |
-|------|------|-------|------|--------|--------|
+Pokazujemy dwa sposoby odwzorowania uzgodnien miedzyresortowych na GitHubie:
+
+#### Opcja A — osobny PR per ministerstwo
+
+Kazde ministerstwo ma wlasny branch i Pull Request. LLM czyta pismo z uwagami, wprowadza proponowane zmiany w tresci ustawy, a odpowiedzi projektodawcy dodaje jako review comments. Pokazuje chronologiczny przebieg procesu — uwagi splywaja po kolei.
+
+| Plik | Data | Autor | Opis | Tokeny | PR |
+|------|------|-------|------|--------|-----|
 | [dokument564010](outputs/arrangements/dokument564010.md) | 14.06.2022 | Minister Zdrowia | Uwagi do projektu ustawy | ~450 | [PR #3](https://github.com/ewakaaaa/LawAsACode/pull/3) |
 | [dokument564013](outputs/arrangements/dokument564013.md) | 14.06.2022 | Minister Sportu i Turystyki | Uwagi do projektu ustawy | ~230 | [PR #4](https://github.com/ewakaaaa/LawAsACode/pull/4) |
 | [dokument564008](outputs/arrangements/dokument564008.md) | 16.06.2022 | Minister Infrastruktury | Uwagi do projektu ustawy | ~387 | [PR #7](https://github.com/ewakaaaa/LawAsACode/pull/7) |
-| [dokument564003](outputs/arrangements/dokument564003.md) | 17.06.2022 | Koordynator OSR, KPRM | Uwagi do Oceny Skutków Regulacji | ~221 | Pominięte — dotyczy OSR |
+| [dokument564003](outputs/arrangements/dokument564003.md) | 17.06.2022 | Koordynator OSR, KPRM | Uwagi do Oceny Skutków Regulacji | ~221 | Pominiete — dotyczy OSR |
 | [dokument564014](outputs/arrangements/dokument564014.md) | 19.06.2022 | Rządowe Centrum Legislacji | Uwagi legislacyjne RCL | ~13 668 | [PR #9](https://github.com/ewakaaaa/LawAsACode/pull/9) |
 | [dokument563986](outputs/arrangements/dokument563986.md) | ~21.06.2022 | Minister Rodziny i Polityki Społecznej | Uwagi + propozycja dodania mLegitymacji osoby niepełnosprawnej | ~465 | [PR #6](https://github.com/ewakaaaa/LawAsACode/pull/6) |
 | [dokument563989](outputs/arrangements/dokument563989.md) | ~21.06.2022 | Minister Rodziny i Polityki Społecznej | Propozycja zmian w przepisach ustawy o rehabilitacji (załącznik) | ~3 945 | [PR #6](https://github.com/ewakaaaa/LawAsACode/pull/6) |
@@ -68,9 +74,9 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 | [dokument564009](outputs/arrangements/dokument564009.md) | 01.07.2022 | Minister ds. Unii Europejskiej | Opinia o zgodności z prawem UE | ~1 610 | [PR #12](https://github.com/ewakaaaa/LawAsACode/pull/12) |
 | [dokument564086](outputs/arrangements/dokument564086.md) | b.d. | Minister Spraw Wewnętrznych i Administracji | Uwagi do projektu ustawy | ~5 966 | [PR #13](https://github.com/ewakaaaa/LawAsACode/pull/13) |
 
-### Opcja B — wszystkie uwagi w jednym PR
+#### Opcja B — wszystkie uwagi w jednym PR
 
-[PR #14](https://github.com/ewakaaaa/LawAsACode/pull/14) — tekst ustawy jako nowy plik z review comments od wszystkich ministerstw na konkretnych liniach. Pokazuje jak wyglądałby flow z dodaniem nowej ustawy i code review przez wszystkie ministerstwa naraz.
+[PR #14](https://github.com/ewakaaaa/LawAsACode/pull/14) — tekst ustawy dodany jako nowy plik na branchu. Uwagi wszystkich ministerstw jako review comments na konkretnych liniach, odpowiedzi projektodawcy jako reply. Pokazuje jak wygladaloby code review calej ustawy przez wszystkie ministerstwa naraz.
 
 ### Podsumowanie uzgodnień
 
