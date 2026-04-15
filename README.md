@@ -68,6 +68,10 @@ Dokument źródłowy: [dokument559316](outputs/arrangements/dokument559316.md)
 | [dokument564009](outputs/arrangements/dokument564009.md) | 01.07.2022 | Minister ds. Unii Europejskiej | Opinia o zgodności z prawem UE | ~1 610 | [PR #12](https://github.com/ewakaaaa/LawAsACode/pull/12) |
 | [dokument564086](outputs/arrangements/dokument564086.md) | b.d. | Minister Spraw Wewnętrznych i Administracji | Uwagi do projektu ustawy | ~5 966 | [PR #13](https://github.com/ewakaaaa/LawAsACode/pull/13) |
 
+### Opcja B — wszystkie uwagi w jednym PR
+
+[PR #14](https://github.com/ewakaaaa/LawAsACode/pull/14) — tekst ustawy jako nowy plik z review comments od wszystkich ministerstw na konkretnych liniach. Pokazuje jak wyglądałby flow z dodaniem nowej ustawy i code review przez wszystkie ministerstwa naraz.
+
 ### Podsumowanie uzgodnień
 
 - [dokument589924](outputs/arrangements/dokument589924.md) — pismo Ministra Cyfryzacji informujące, że wszystkie uwagi zostały uwzględnione bądź wyjaśnione
