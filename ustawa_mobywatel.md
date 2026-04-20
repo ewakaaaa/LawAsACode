@@ -40,7 +40,11 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 4)	datę urodzenia;
 
-5)	fotografię.
+5)	fotografię;
+
+6)	imię ojca;
+
+7)	imię matki.
 
 4. Dokument elektroniczny, o którym mowa w ust. 3, oprócz danych, o których mowa w ust 3, może zawierać także inne dane pobrane z rejestrów publicznych lub systemów teleinformatycznych, o których mowa w art. 4 ust. 4 i 5, w szczególności:
 
@@ -74,15 +78,11 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 15)	datę zameldowania.
 
-5. Dokument elektroniczny, o którym mowa ust. 3, jest dokumentem stwierdzającym tożsamość i obywatelstwo polskie osoby na terytorium Rzeczypospolitej Polskiej, w zakresie danych w nim zawartych, w relacjach wzajemnej fizycznej obecności stron.
+5. Dokument elektroniczny, o którym mowa ust. 3, jest dokumentem stwierdzającym tożsamość i obywatelstwo polskie osoby na terytorium Rzeczypospolitej Polskiej.
 
 6. Jeżeli z przepisu prawa wynika obowiązek okazania dowodu osobistego w celu potwierdzenia tożsamości, obowiązek ten uznaje się za spełniony przez użycie dokumentu, o którym mowa w ust. 3.
 
 7. Jeżeli z przepisu prawa wynika obowiązek podania numeru lub serii dokumentu, na podstawie którego stwierdzono obywatelstwo polskie lub tożsamość osoby fizycznej, w przypadku użycia dokumentu, o którym mowa w ust. 3, obowiązek ten uznaje się za spełniony przez podanie numeru i serii dowodu osobistego, zamieszczonego w tym dokumencie, jeżeli dokument zawiera te dane.
-
-8. Dokument elektroniczny, o którym mowa w ust. 3, nie może być wykorzystywany do potwierdzenia tożsamości osoby w przypadku, gdy ze względu na cel i skutki prawne potwierdzenia tożsamości poziom pewności i bezpieczeństwa takiego sposobu potwierdzenia tożsamości jest niewystarczający.
-
-9. Rada Ministrów może określić w drodze rozporządzenia przypadki, o których mowa w ust. 8, gdy dokument elektroniczny, o którym mowa w ust. 3, nie może być wykorzystywany do potwierdzenia tożsamości, mając na uwadze wymagania dotyczące poziomu pewności i bezpieczeństwa procesu potwierdzania tożsamości adekwatnie do celu w jakim potwierdzenie tożsamości następuje i skutków prawnych tego potwierdzenia.
 
 10. Do dokumentów elektronicznych, udostępnionych w ramach aplikacji mObywatel, zawierających dane inne niż dane pobrane z rejestru publicznego lub systemu teleinformatycznego, o których mowa w art. 4 ust. 4 i 5, warunki uznania dokumentu elektronicznego za dokument poświadczający fakty oraz stan prawny, o których mowa w ust. 2, stosuje się odpowiednio.  
 
