@@ -182,12 +182,6 @@ c)	o dowodzie rejestracyjnym oraz jego wtórniku:
 
 –	oznaczenie organu wydającego dokument,
 
-d)	o karcie pojazdu oraz jej wtórniku:
-
-–	serię i numer dokumentu,
-
-–	datę wydania dokumentu,
-
 e)	o zakładzie ubezpieczeń, który zawarł umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu:
 
 –	handlową nazwę zakładu ubezpieczeń,
