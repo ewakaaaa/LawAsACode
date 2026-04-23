@@ -6,19 +6,19 @@ z dnia ………… 2022 r.
 
 o aplikacji mObywatel)
 
-**Art. 1. **Ustawa określa zasady funkcjonowania i wykorzystywania publicznego oprogramowania, wykorzystywanego do udostępniania i świadczenia usług, przeznaczonego dla urządzeń mobilnych, zwanego dalej „aplikacją mObywatel”, którego użytkownikami są osoby fizyczne.
+**Art. 1. **Ustawa określa zasady funkcjonowania i wykorzystywania oprogramowania, wykorzystywanego do udostępniania i świadczenia usług, przeznaczonego dla urządzeń mobilnych, zwanego dalej „aplikacją mObywatel”, którego użytkownikami są osoby fizyczne.
 
-**Art. 2. **1.** **Minister właściwy do spraw informatyzacji udostępnia w aplikacji mObywatel usługi, z których użytkownik tej aplikacji może korzystać przy użyciu urządzenia mobilnego, pozwalające w szczególności na:
+**Art. 2. **1.** **Minister właściwy do spraw informatyzacji udostępnia w aplikacji mObywatel usługi, z których użytkownik tej aplikacji może korzystać przy użyciu urządzenia mobilnego, pozwalające na:
 
 1)	pobranie, przechowywanie, prezentację oraz przekazywanie, przy użyciu urządzenia mobilnego, dokumentu elektronicznego zawierającego dane pobrane z rejestru publicznego lub z systemu teleinformatycznego podmiotu publicznego:
 
-a)	niezbędne dane osobowe tego użytkownika,
+a)	dane osobowe tego użytkownika,
 
 b)	dane dotyczące sytuacji prawnej tego użytkownika lub praw mu przysługujących,
 
 c)	dane umożliwiające identyfikację rzeczy związanej z tym użytkownikiem,
 
-d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem lub opiekunem prawnym, lub praw przysługujących tej osobie;
+d)	dane dotyczące sytuacji prawnej osoby niepełnoletniej, której ten użytkownik jest rodzicem lub opiekunem prawnym, lub praw przysługujących tej osobie;
 
 2)	przekazanie danych, które zostały pobrane przez użytkownika tej aplikacji z rejestru publicznego lub z systemu teleinformatycznego, innemu podmiotowi świadczącemu usługę w tej aplikacji;
 
@@ -40,9 +40,11 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 4)	datę urodzenia;
 
-5)	fotografię.
+5)	fotografię;
 
-4. Dokument elektroniczny, o którym mowa w ust. 3, oprócz danych, o których mowa w ust 3, może zawierać także inne dane pobrane z rejestrów publicznych lub systemów teleinformatycznych, o których mowa w art. 4 ust. 4 i 5, w szczególności:
+6)	obywatelstwo.
+
+4. Dokument elektroniczny, o którym mowa w ust. 3, oprócz danych, o których mowa w ust 3, może zawierać także inne dane pobrane z rejestrów publicznych lub systemów teleinformatycznych, o których mowa w art. 4 ust. 4 i 5:
 
 1)	serię i numer dowodu osobistego;
 
@@ -94,7 +96,7 @@ d)	dane dotyczące sytuacji prawnej osoby, której ten użytkownik jest rodzicem
 
 3)	zapewnia bezpieczeństwo oraz integralność danych przekazywanych pomiędzy aplikacją mObywatel, systemem teleinformatycznym, o którym mowa w pkt 2, oraz systemami teleinformatycznymi podmiotów świadczących usługi w tej aplikacji;
 
-4)	udostępnia narzędzia, które umożliwiają potwierdzenie ważności, integralności oraz pochodzenia dokumentów elektronicznych obsługiwanych w ramach usług świadczonych w aplikacji mObywatel, w tym aplikację na urządzenia mobilne – mWeryfikator;
+4)	udostępnia narzędzia, które umożliwiają potwierdzenie autentyczności, ważności, integralności oraz pochodzenia dokumentów elektronicznych obsługiwanych w ramach usług świadczonych w aplikacji mObywatel, w tym aplikację na urządzenia mobilne – mWeryfikator;
 
 5)	zapewnia, przy użyciu systemu teleinformatycznego, o którym mowa w pkt 2, funkcjonowanie oraz możliwość wykorzystywania i weryfikacji certyfikatu, pozwalającego na:
 
@@ -181,12 +183,6 @@ c)	o dowodzie rejestracyjnym oraz jego wtórniku:
 –	datę ważności dokumentu, jeżeli występuje takie ograniczenie,
 
 –	oznaczenie organu wydającego dokument,
-
-d)	o karcie pojazdu oraz jej wtórniku:
-
-–	serię i numer dokumentu,
-
-–	datę wydania dokumentu,
 
 e)	o zakładzie ubezpieczeń, który zawarł umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu:
 
@@ -404,7 +400,7 @@ b)	informacja o wymaganiach technicznych dotyczących korzystania z aplikacji mO
 
 **Art. 9.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2022 r. poz. 559, 583, 1005 i 1079) w art. 7 dodaje się ust. 2a w brzmieniu:
 
-„2a. Minister właściwy do spraw informatyzacji zapewnia gminie możliwość świadczenia usługi umożliwiającej wydawanie i wykorzystywanie dokumentów elektronicznych, które poświadczają długoterminowe uprawnienia do korzystania z lokalnego transportu zbiorowego, obsługiwanych przy użyciu publicznej aplikacji mobilnej, o której mowa w ustawie z dnia … o aplikacji mObywatel (Dz. U. poz.  …).”.
+„2a. Minister właściwy do spraw informatyzacji zapewnia gminie możliwość świadczenia usługi umożliwiającej wydawanie i wykorzystywanie dokumentów elektronicznych, które poświadczają długoterminowe uprawnienia do korzystania z lokalnego transportu zbiorowego, obsługiwanych przy użyciu aplikacji mObywatel, o której mowa w ustawie z dnia … o aplikacji mObywatel (Dz. U. poz.  …).”.
 
 **Art. 10.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116) w art. 11 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
 
