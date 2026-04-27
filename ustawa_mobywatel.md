@@ -142,7 +142,7 @@ b)	identyfikację i uwierzytelnienie użytkownika aplikacji mObywatel w usługac
 
 2)	mLegitymacji studenckiej, o której mowa w  art. 74 ust. 4a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce
 
-– użytkownikiem aplikacji mObywatel może zostać osoba fizyczna uwierzytelniona w sposób właściwy dla procedury wydawania tego dokumentu przez wydający go organ.
+– użytkownikiem aplikacji mObywatel może zostać osoba fizyczna uwierzytelniona w sposób właściwy dla procedury wydawania tego dokumentu przez wydający go podmiot.
 
 3. Użytkowanie aplikacji mObywatel jest bezpłatne i dobrowolne. Użytkownik aplikacji mObywatel może w dowolnej chwili zrezygnować z korzystania z tej aplikacji.
 
